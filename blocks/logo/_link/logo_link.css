@@ -1,7 +1,7 @@
-.logo__link {
+.logo_link {
   transition: opacity 0.7s ease;
 }
 
-.logo__link:hover {
+.logo_link:hover {
   opacity: 0.5;
 }
