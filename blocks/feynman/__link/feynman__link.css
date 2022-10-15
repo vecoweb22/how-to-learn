@@ -1,0 +1,13 @@
+.feynman__link {
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 51px;
+  color: #2f80ed;
+}
+
+.feynman__link::after {
+  content: "\2192";
+}

@@ -1,0 +1,11 @@
+/* __link */
+.header__link {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  color: #2f80ed;
+}
+
+.header__link::after {
+  content: "\2192";
+}
